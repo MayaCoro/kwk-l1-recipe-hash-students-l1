@@ -26,7 +26,7 @@
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
-  @perfect_10_recipe = {
+  perfect_10_recipe = {
 :almond_flour => "2 cups",
 :gluten_freewhole_oats => "1 cup",
 :kosher_salt => "1/2 tea_spoon",
